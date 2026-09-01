@@ -1,5 +1,9 @@
 # Email Validation
 
+## Github-Pages:
+
+https://anxgezr.github.io/kata-react-1-3-4/
+
 ## Описание проекта
 
 Небольшое веб-приложение с формой для ввода email-адреса и кнопкой «Проверить».
